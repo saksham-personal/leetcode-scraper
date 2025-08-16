@@ -1,0 +1,3647 @@
+[
+  {
+    "Name": "342. Power of Four",
+    "link": "https://leetcode.com/problems/power-of-four?envType=daily-question&envId=2025-08-15",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "156. Binary Tree Upside Down",
+    "link": "https://leetcode.com/problems/binary-tree-upside-down",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "157. Read N Characters Given Read4",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "158. Read N Characters Given read4 II - Call Multiple Times",
+    "link": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "159. Longest Substring with At Most Two Distinct Characters",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "161. One Edit Distance",
+    "link": "https://leetcode.com/problems/one-edit-distance",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "163. Missing Ranges",
+    "link": "https://leetcode.com/problems/missing-ranges",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "170. Two Sum III - Data structure design",
+    "link": "https://leetcode.com/problems/two-sum-iii-data-structure-design",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "186. Reverse Words in a String II",
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "243. Shortest Word Distance",
+    "link": "https://leetcode.com/problems/shortest-word-distance",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "244. Shortest Word Distance II",
+    "link": "https://leetcode.com/problems/shortest-word-distance-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "245. Shortest Word Distance III",
+    "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "246. Strobogrammatic Number",
+    "link": "https://leetcode.com/problems/strobogrammatic-number",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "247. Strobogrammatic Number II",
+    "link": "https://leetcode.com/problems/strobogrammatic-number-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "248. Strobogrammatic Number III",
+    "link": "https://leetcode.com/problems/strobogrammatic-number-iii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "249. Group Shifted Strings",
+    "link": "https://leetcode.com/problems/group-shifted-strings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "250. Count Univalue Subtrees",
+    "link": "https://leetcode.com/problems/count-univalue-subtrees",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "251. Flatten 2D Vector",
+    "link": "https://leetcode.com/problems/flatten-2d-vector",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "252. Meeting Rooms",
+    "link": "https://leetcode.com/problems/meeting-rooms",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "253. Meeting Rooms II",
+    "link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "254. Factor Combinations",
+    "link": "https://leetcode.com/problems/factor-combinations",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "255. Verify Preorder Sequence in Binary Search Tree",
+    "link": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "256. Paint House",
+    "link": "https://leetcode.com/problems/paint-house",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "259. 3Sum Smaller",
+    "link": "https://leetcode.com/problems/3sum-smaller",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "261. Graph Valid Tree",
+    "link": "https://leetcode.com/problems/graph-valid-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "265. Paint House II",
+    "link": "https://leetcode.com/problems/paint-house-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "266. Palindrome Permutation",
+    "link": "https://leetcode.com/problems/palindrome-permutation",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "267. Palindrome Permutation II",
+    "link": "https://leetcode.com/problems/palindrome-permutation-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "269. Alien Dictionary",
+    "link": "https://leetcode.com/problems/alien-dictionary",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "270. Closest Binary Search Tree Value",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "271. Encode and Decode Strings",
+    "link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "272. Closest Binary Search Tree Value II",
+    "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "276. Paint Fence",
+    "link": "https://leetcode.com/problems/paint-fence",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "277. Find the Celebrity",
+    "link": "https://leetcode.com/problems/find-the-celebrity",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "280. Wiggle Sort",
+    "link": "https://leetcode.com/problems/wiggle-sort",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "281. Zigzag Iterator",
+    "link": "https://leetcode.com/problems/zigzag-iterator",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "285. Inorder Successor in BST",
+    "link": "https://leetcode.com/problems/inorder-successor-in-bst",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "286. Walls and Gates",
+    "link": "https://leetcode.com/problems/walls-and-gates",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "288. Unique Word Abbreviation",
+    "link": "https://leetcode.com/problems/unique-word-abbreviation",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "291. Word Pattern II",
+    "link": "https://leetcode.com/problems/word-pattern-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "293. Flip Game",
+    "link": "https://leetcode.com/problems/flip-game",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "294. Flip Game II",
+    "link": "https://leetcode.com/problems/flip-game-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "296. Best Meeting Point",
+    "link": "https://leetcode.com/problems/best-meeting-point",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "298. Binary Tree Longest Consecutive Sequence",
+    "link": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "302. Smallest Rectangle Enclosing Black Pixels",
+    "link": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "305. Number of Islands II",
+    "link": "https://leetcode.com/problems/number-of-islands-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "308. Range Sum Query 2D - Mutable",
+    "link": "https://leetcode.com/problems/range-sum-query-2d-mutable",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "311. Sparse Matrix Multiplication",
+    "link": "https://leetcode.com/problems/sparse-matrix-multiplication",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "314. Binary Tree Vertical Order Traversal",
+    "link": "https://leetcode.com/problems/binary-tree-vertical-order-traversal",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "317. Shortest Distance from All Buildings",
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "320. Generalized Abbreviation",
+    "link": "https://leetcode.com/problems/generalized-abbreviation",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "323. Number of Connected Components in an Undirected Graph",
+    "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "325. Maximum Size Subarray Sum Equals k",
+    "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "333. Largest BST Subtree",
+    "link": "https://leetcode.com/problems/largest-bst-subtree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "339. Nested List Weight Sum",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "340. Longest Substring with At Most K Distinct Characters",
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "346. Moving Average from Data Stream",
+    "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "348. Design Tic-Tac-Toe",
+    "link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "351. Android Unlock Patterns",
+    "link": "https://leetcode.com/problems/android-unlock-patterns",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "353. Design Snake Game",
+    "link": "https://leetcode.com/problems/design-snake-game",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "356. Line Reflection",
+    "link": "https://leetcode.com/problems/line-reflection",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "358. Rearrange String k Distance Apart",
+    "link": "https://leetcode.com/problems/rearrange-string-k-distance-apart",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "359. Logger Rate Limiter",
+    "link": "https://leetcode.com/problems/logger-rate-limiter",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "360. Sort Transformed Array",
+    "link": "https://leetcode.com/problems/sort-transformed-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "361. Bomb Enemy",
+    "link": "https://leetcode.com/problems/bomb-enemy",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "362. Design Hit Counter",
+    "link": "https://leetcode.com/problems/design-hit-counter",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "364. Nested List Weight Sum II",
+    "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "366. Find Leaves of Binary Tree",
+    "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "369. Plus One Linked List",
+    "link": "https://leetcode.com/problems/plus-one-linked-list",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "370. Range Addition",
+    "link": "https://leetcode.com/problems/range-addition",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "379. Design Phone Directory",
+    "link": "https://leetcode.com/problems/design-phone-directory",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "408. Valid Word Abbreviation",
+    "link": "https://leetcode.com/problems/valid-word-abbreviation",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "411. Minimum Unique Word Abbreviation",
+    "link": "https://leetcode.com/problems/minimum-unique-word-abbreviation",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "418. Sentence Screen Fitting",
+    "link": "https://leetcode.com/problems/sentence-screen-fitting",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "422. Valid Word Square",
+    "link": "https://leetcode.com/problems/valid-word-square",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "425. Word Squares",
+    "link": "https://leetcode.com/problems/word-squares",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "426. Convert Binary Search Tree to Sorted Doubly Linked List",
+    "link": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "428. Serialize and Deserialize N-ary Tree",
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "431. Encode N-ary Tree to Binary Tree",
+    "link": "https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "439. Ternary Expression Parser",
+    "link": "https://leetcode.com/problems/ternary-expression-parser",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "444. Sequence Reconstruction",
+    "link": "https://leetcode.com/problems/sequence-reconstruction",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "465. Optimal Account Balancing",
+    "link": "https://leetcode.com/problems/optimal-account-balancing",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "469. Convex Polygon",
+    "link": "https://leetcode.com/problems/convex-polygon",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "471. Encode String with Shortest Length",
+    "link": "https://leetcode.com/problems/encode-string-with-shortest-length",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "484. Find Permutation",
+    "link": "https://leetcode.com/problems/find-permutation",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "487. Max Consecutive Ones II",
+    "link": "https://leetcode.com/problems/max-consecutive-ones-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "489. Robot Room Cleaner",
+    "link": "https://leetcode.com/problems/robot-room-cleaner",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "490. The Maze",
+    "link": "https://leetcode.com/problems/the-maze",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "499. The Maze III",
+    "link": "https://leetcode.com/problems/the-maze-iii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "505. The Maze II",
+    "link": "https://leetcode.com/problems/the-maze-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "510. Inorder Successor in BST II",
+    "link": "https://leetcode.com/problems/inorder-successor-in-bst-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "512. Game Play Analysis II",
+    "link": "https://leetcode.com/problems/game-play-analysis-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "527. Word Abbreviation",
+    "link": "https://leetcode.com/problems/word-abbreviation",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "531. Lonely Pixel I",
+    "link": "https://leetcode.com/problems/lonely-pixel-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "533. Lonely Pixel II",
+    "link": "https://leetcode.com/problems/lonely-pixel-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "534. Game Play Analysis III",
+    "link": "https://leetcode.com/problems/game-play-analysis-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "536. Construct Binary Tree from String",
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-string",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "544. Output Contest Matches",
+    "link": "https://leetcode.com/problems/output-contest-matches",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "545. Boundary of Binary Tree",
+    "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "548. Split Array with Equal Sum",
+    "link": "https://leetcode.com/problems/split-array-with-equal-sum",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "549. Binary Tree Longest Consecutive Sequence II",
+    "link": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "555. Split Concatenated Strings",
+    "link": "https://leetcode.com/problems/split-concatenated-strings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "562. Longest Line of Consecutive One in Matrix",
+    "link": "https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "568. Maximum Vacation Days",
+    "link": "https://leetcode.com/problems/maximum-vacation-days",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "569. Median Employee Salary",
+    "link": "https://leetcode.com/problems/median-employee-salary",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "571. Find Median Given Frequency of Numbers",
+    "link": "https://leetcode.com/problems/find-median-given-frequency-of-numbers",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "573. Squirrel Simulation",
+    "link": "https://leetcode.com/problems/squirrel-simulation",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "574. Winning Candidate",
+    "link": "https://leetcode.com/problems/winning-candidate",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "578. Get Highest Answer Rate Question",
+    "link": "https://leetcode.com/problems/get-highest-answer-rate-question",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "579. Find Cumulative Salary of an Employee",
+    "link": "https://leetcode.com/problems/find-cumulative-salary-of-an-employee",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "580. Count Student Number in Departments",
+    "link": "https://leetcode.com/problems/count-student-number-in-departments",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "582. Kill Process",
+    "link": "https://leetcode.com/problems/kill-process",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "588. Design In-Memory File System",
+    "link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "597. Friend Requests I: Overall Acceptance Rate",
+    "link": "https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "603. Consecutive Available Seats",
+    "link": "https://leetcode.com/problems/consecutive-available-seats",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "604. Design Compressed String Iterator",
+    "link": "https://leetcode.com/problems/design-compressed-string-iterator",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "612. Shortest Distance in a Plane",
+    "link": "https://leetcode.com/problems/shortest-distance-in-a-plane",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "613. Shortest Distance in a Line",
+    "link": "https://leetcode.com/problems/shortest-distance-in-a-line",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "614. Second Degree Follower",
+    "link": "https://leetcode.com/problems/second-degree-follower",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "615. Average Salary: Departments VS Company",
+    "link": "https://leetcode.com/problems/average-salary-departments-vs-company",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "616. Add Bold Tag in String",
+    "link": "https://leetcode.com/problems/add-bold-tag-in-string",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "618. Students Report By Geography",
+    "link": "https://leetcode.com/problems/students-report-by-geography",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "625. Minimum Factorization",
+    "link": "https://leetcode.com/problems/minimum-factorization",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "631. Design Excel Sum Formula",
+    "link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "634. Find the Derangement of An Array",
+    "link": "https://leetcode.com/problems/find-the-derangement-of-an-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "635. Design Log Storage System",
+    "link": "https://leetcode.com/problems/design-log-storage-system",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "642. Design Search Autocomplete System",
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "644. Maximum Average Subarray II",
+    "link": "https://leetcode.com/problems/maximum-average-subarray-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "651. 4 Keys Keyboard",
+    "link": "https://leetcode.com/problems/4-keys-keyboard",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "656. Coin Path",
+    "link": "https://leetcode.com/problems/coin-path",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "660. Remove 9",
+    "link": "https://leetcode.com/problems/remove-9",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "663. Equal Tree Partition",
+    "link": "https://leetcode.com/problems/equal-tree-partition",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "666. Path Sum IV",
+    "link": "https://leetcode.com/problems/path-sum-iv",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "681. Next Closest Time",
+    "link": "https://leetcode.com/problems/next-closest-time",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "683. K Empty Slots",
+    "link": "https://leetcode.com/problems/k-empty-slots",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "694. Number of Distinct Islands",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "702. Search in a Sorted Array of Unknown Size",
+    "link": "https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "708. Insert into a Sorted Circular Linked List",
+    "link": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "711. Number of Distinct Islands II",
+    "link": "https://leetcode.com/problems/number-of-distinct-islands-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "716. Max Stack",
+    "link": "https://leetcode.com/problems/max-stack",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "723. Candy Crush",
+    "link": "https://leetcode.com/problems/candy-crush",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "727. Minimum Window Subsequence",
+    "link": "https://leetcode.com/problems/minimum-window-subsequence",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "734. Sentence Similarity",
+    "link": "https://leetcode.com/problems/sentence-similarity",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "737. Sentence Similarity II",
+    "link": "https://leetcode.com/problems/sentence-similarity-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "742. Closest Leaf in a Binary Tree",
+    "link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "750. Number Of Corner Rectangles",
+    "link": "https://leetcode.com/problems/number-of-corner-rectangles",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "751. IP to CIDR",
+    "link": "https://leetcode.com/problems/ip-to-cidr",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "755. Pour Water",
+    "link": "https://leetcode.com/problems/pour-water",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "758. Bold Words in String",
+    "link": "https://leetcode.com/problems/bold-words-in-string",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "759. Employee Free Time",
+    "link": "https://leetcode.com/problems/employee-free-time",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "760. Find Anagram Mappings",
+    "link": "https://leetcode.com/problems/find-anagram-mappings",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "772. Basic Calculator III",
+    "link": "https://leetcode.com/problems/basic-calculator-iii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "774. Minimize Max Distance to Gas Station",
+    "link": "https://leetcode.com/problems/minimize-max-distance-to-gas-station",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "776. Split BST",
+    "link": "https://leetcode.com/problems/split-bst",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "800. Similar RGB Color",
+    "link": "https://leetcode.com/problems/similar-rgb-color",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1055. Shortest Way to Form String",
+    "link": "https://leetcode.com/problems/shortest-way-to-form-string",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1056. Confusing Number",
+    "link": "https://leetcode.com/problems/confusing-number",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1057. Campus Bikes",
+    "link": "https://leetcode.com/problems/campus-bikes",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1058. Minimize Rounding Error to Meet Target",
+    "link": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1059. All Paths from Source Lead to Destination",
+    "link": "https://leetcode.com/problems/all-paths-from-source-lead-to-destination",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1060. Missing Element in Sorted Array",
+    "link": "https://leetcode.com/problems/missing-element-in-sorted-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1062. Longest Repeating Substring",
+    "link": "https://leetcode.com/problems/longest-repeating-substring",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1063. Number of Valid Subarrays",
+    "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1064. Fixed Point",
+    "link": "https://leetcode.com/problems/fixed-point",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1065. Index Pairs of a String",
+    "link": "https://leetcode.com/problems/index-pairs-of-a-string",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1066. Campus Bikes II",
+    "link": "https://leetcode.com/problems/campus-bikes-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1067. Digit Count in Range",
+    "link": "https://leetcode.com/problems/digit-count-in-range",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1069. Product Sales Analysis II",
+    "link": "https://leetcode.com/problems/product-sales-analysis-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1076. Project Employees II",
+    "link": "https://leetcode.com/problems/project-employees-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1077. Project Employees III",
+    "link": "https://leetcode.com/problems/project-employees-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1082. Sales Analysis I",
+    "link": "https://leetcode.com/problems/sales-analysis-i",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1083. Sales Analysis II",
+    "link": "https://leetcode.com/problems/sales-analysis-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1085. Sum of Digits in the Minimum Number",
+    "link": "https://leetcode.com/problems/sum-of-digits-in-the-minimum-number",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1086. High Five",
+    "link": "https://leetcode.com/problems/high-five",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1087. Brace Expansion",
+    "link": "https://leetcode.com/problems/brace-expansion",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1088. Confusing Number II",
+    "link": "https://leetcode.com/problems/confusing-number-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1097. Game Play Analysis V",
+    "link": "https://leetcode.com/problems/game-play-analysis-v",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1098. Unpopular Books",
+    "link": "https://leetcode.com/problems/unpopular-books",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1099. Two Sum Less Than K",
+    "link": "https://leetcode.com/problems/two-sum-less-than-k",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1100. Find K-Length Substrings With No Repeated Characters",
+    "link": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1101. The Earliest Moment When Everyone Become Friends",
+    "link": "https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1102. Path With Maximum Minimum Value",
+    "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1107. New Users Daily Count",
+    "link": "https://leetcode.com/problems/new-users-daily-count",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1112. Highest Grade For Each Student",
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1113. Reported Posts",
+    "link": "https://leetcode.com/problems/reported-posts",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1118. Number of Days in a Month",
+    "link": "https://leetcode.com/problems/number-of-days-in-a-month",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1119. Remove Vowels from a String",
+    "link": "https://leetcode.com/problems/remove-vowels-from-a-string",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1120. Maximum Average Subtree",
+    "link": "https://leetcode.com/problems/maximum-average-subtree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1121. Divide Array Into Increasing Sequences",
+    "link": "https://leetcode.com/problems/divide-array-into-increasing-sequences",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1126. Active Businesses",
+    "link": "https://leetcode.com/problems/active-businesses",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1127. User Purchase Platform",
+    "link": "https://leetcode.com/problems/user-purchase-platform",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1132. Reported Posts II",
+    "link": "https://leetcode.com/problems/reported-posts-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1133. Largest Unique Number",
+    "link": "https://leetcode.com/problems/largest-unique-number",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1134. Armstrong Number",
+    "link": "https://leetcode.com/problems/armstrong-number",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1135. Connecting Cities With Minimum Cost",
+    "link": "https://leetcode.com/problems/connecting-cities-with-minimum-cost",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1136. Parallel Courses",
+    "link": "https://leetcode.com/problems/parallel-courses",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1142. User Activity for the Past 30 Days II",
+    "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1149. Article Views II",
+    "link": "https://leetcode.com/problems/article-views-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1150. Check If a Number Is Majority Element in a Sorted Array",
+    "link": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1151. Minimum Swaps to Group All 1's Together",
+    "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1152. Analyze User Website Visit Pattern",
+    "link": "https://leetcode.com/problems/analyze-user-website-visit-pattern",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1153. String Transforms Into Another String",
+    "link": "https://leetcode.com/problems/string-transforms-into-another-string",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1159. Market Analysis II",
+    "link": "https://leetcode.com/problems/market-analysis-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1165. Single-Row Keyboard",
+    "link": "https://leetcode.com/problems/single-row-keyboard",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1166. Design File System",
+    "link": "https://leetcode.com/problems/design-file-system",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1167. Minimum Cost to Connect Sticks",
+    "link": "https://leetcode.com/problems/minimum-cost-to-connect-sticks",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1168. Optimize Water Distribution in a Village",
+    "link": "https://leetcode.com/problems/optimize-water-distribution-in-a-village",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1173. Immediate Food Delivery I",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-i",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1176. Diet Plan Performance",
+    "link": "https://leetcode.com/problems/diet-plan-performance",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1180. Count Substrings with Only One Distinct Letter",
+    "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1181. Before and After Puzzle",
+    "link": "https://leetcode.com/problems/before-and-after-puzzle",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1182. Shortest Distance to Target Color",
+    "link": "https://leetcode.com/problems/shortest-distance-to-target-color",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1183. Maximum Number of Ones",
+    "link": "https://leetcode.com/problems/maximum-number-of-ones",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1188. Design Bounded Blocking Queue",
+    "link": "https://leetcode.com/problems/design-bounded-blocking-queue",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1194. Tournament Winners",
+    "link": "https://leetcode.com/problems/tournament-winners",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1196. How Many Apples Can You Put into the Basket",
+    "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1197. Minimum Knight Moves",
+    "link": "https://leetcode.com/problems/minimum-knight-moves",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1198. Find Smallest Common Element in All Rows",
+    "link": "https://leetcode.com/problems/find-smallest-common-element-in-all-rows",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1199. Minimum Time to Build Blocks",
+    "link": "https://leetcode.com/problems/minimum-time-to-build-blocks",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1205. Monthly Transactions II",
+    "link": "https://leetcode.com/problems/monthly-transactions-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1212. Team Scores in Football Tournament",
+    "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1213. Intersection of Three Sorted Arrays",
+    "link": "https://leetcode.com/problems/intersection-of-three-sorted-arrays",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1214. Two Sum BSTs",
+    "link": "https://leetcode.com/problems/two-sum-bsts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1215. Stepping Numbers",
+    "link": "https://leetcode.com/problems/stepping-numbers",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1216. Valid Palindrome III",
+    "link": "https://leetcode.com/problems/valid-palindrome-iii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1225. Report Contiguous Dates",
+    "link": "https://leetcode.com/problems/report-contiguous-dates",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1228. Missing Number In Arithmetic Progression",
+    "link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1229. Meeting Scheduler",
+    "link": "https://leetcode.com/problems/meeting-scheduler",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1230. Toss Strange Coins",
+    "link": "https://leetcode.com/problems/toss-strange-coins",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1231. Divide Chocolate",
+    "link": "https://leetcode.com/problems/divide-chocolate",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1236. Web Crawler",
+    "link": "https://leetcode.com/problems/web-crawler",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1241. Number of Comments per Post",
+    "link": "https://leetcode.com/problems/number-of-comments-per-post",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1242. Web Crawler Multithreaded",
+    "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1243. Array Transformation",
+    "link": "https://leetcode.com/problems/array-transformation",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1244. Design A Leaderboard",
+    "link": "https://leetcode.com/problems/design-a-leaderboard",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1245. Tree Diameter",
+    "link": "https://leetcode.com/problems/tree-diameter",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1246. Palindrome Removal",
+    "link": "https://leetcode.com/problems/palindrome-removal",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1256. Encode Number",
+    "link": "https://leetcode.com/problems/encode-number",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1257. Smallest Common Region",
+    "link": "https://leetcode.com/problems/smallest-common-region",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1258. Synonymous Sentences",
+    "link": "https://leetcode.com/problems/synonymous-sentences",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1259. Handshakes That Don't Cross",
+    "link": "https://leetcode.com/problems/handshakes-that-dont-cross",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1264. Page Recommendations",
+    "link": "https://leetcode.com/problems/page-recommendations",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1265. Print Immutable Linked List in Reverse",
+    "link": "https://leetcode.com/problems/print-immutable-linked-list-in-reverse",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1270. All People Report to the Given Manager",
+    "link": "https://leetcode.com/problems/all-people-report-to-the-given-manager",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1271. Hexspeak",
+    "link": "https://leetcode.com/problems/hexspeak",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1272. Remove Interval",
+    "link": "https://leetcode.com/problems/remove-interval",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1273. Delete Tree Nodes",
+    "link": "https://leetcode.com/problems/delete-tree-nodes",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1274. Number of Ships in a Rectangle",
+    "link": "https://leetcode.com/problems/number-of-ships-in-a-rectangle",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1279. Traffic Light Controlled Intersection",
+    "link": "https://leetcode.com/problems/traffic-light-controlled-intersection",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1285. Find the Start and End Number of Continuous Ranges",
+    "link": "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1294. Weather Type in Each Country",
+    "link": "https://leetcode.com/problems/weather-type-in-each-country",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1303. Find the Team Size",
+    "link": "https://leetcode.com/problems/find-the-team-size",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1308. Running Total for Different Genders",
+    "link": "https://leetcode.com/problems/running-total-for-different-genders",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1322. Ads Performance",
+    "link": "https://leetcode.com/problems/ads-performance",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1336. Number of Transactions per Visit",
+    "link": "https://leetcode.com/problems/number-of-transactions-per-visit",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1350. Students With Invalid Departments",
+    "link": "https://leetcode.com/problems/students-with-invalid-departments",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1355. Activity Participants",
+    "link": "https://leetcode.com/problems/activity-participants",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1364. Number of Trusted Contacts of a Customer",
+    "link": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1369. Get the Second Most Recent Activity",
+    "link": "https://leetcode.com/problems/get-the-second-most-recent-activity",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1384. Total Sales Amount by Year",
+    "link": "https://leetcode.com/problems/total-sales-amount-by-year",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1398. Customers Who Bought Products A and B but Not C",
+    "link": "https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1412. Find the Quiet Students in All Exams",
+    "link": "https://leetcode.com/problems/find-the-quiet-students-in-all-exams",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1421. NPV Queries",
+    "link": "https://leetcode.com/problems/npv-queries",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1426. Counting Elements",
+    "link": "https://leetcode.com/problems/counting-elements",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1427. Perform String Shifts",
+    "link": "https://leetcode.com/problems/perform-string-shifts",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1428. Leftmost Column with at Least a One",
+    "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1429. First Unique Number",
+    "link": "https://leetcode.com/problems/first-unique-number",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+    "link": "https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1435. Create a Session Bar Chart",
+    "link": "https://leetcode.com/problems/create-a-session-bar-chart",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1440. Evaluate Boolean Expression",
+    "link": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1445. Apples & Oranges",
+    "link": "https://leetcode.com/problems/apples-oranges",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1454. Active Users",
+    "link": "https://leetcode.com/problems/active-users",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1459. Rectangles Area",
+    "link": "https://leetcode.com/problems/rectangles-area",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1468. Calculate Salaries",
+    "link": "https://leetcode.com/problems/calculate-salaries",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1469. Find All The Lonely Nodes",
+    "link": "https://leetcode.com/problems/find-all-the-lonely-nodes",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1474. Delete N Nodes After M Nodes of a Linked List",
+    "link": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1479. Sales by Day of the Week",
+    "link": "https://leetcode.com/problems/sales-by-day-of-the-week",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1485. Clone Binary Tree With Random Pointer",
+    "link": "https://leetcode.com/problems/clone-binary-tree-with-random-pointer",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1490. Clone N-ary Tree",
+    "link": "https://leetcode.com/problems/clone-n-ary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1495. Friendly Movies Streamed Last Month",
+    "link": "https://leetcode.com/problems/friendly-movies-streamed-last-month",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1500. Design a File Sharing System",
+    "link": "https://leetcode.com/problems/design-a-file-sharing-system",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1501. Countries You Can Safely Invest In",
+    "link": "https://leetcode.com/problems/countries-you-can-safely-invest-in",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1506. Find Root of N-Ary Tree",
+    "link": "https://leetcode.com/problems/find-root-of-n-ary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1511. Customer Order Frequency",
+    "link": "https://leetcode.com/problems/customer-order-frequency",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1516. Move Sub-Tree of N-Ary Tree",
+    "link": "https://leetcode.com/problems/move-sub-tree-of-n-ary-tree",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1522. Diameter of N-Ary Tree",
+    "link": "https://leetcode.com/problems/diameter-of-n-ary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1532. The Most Recent Three Orders",
+    "link": "https://leetcode.com/problems/the-most-recent-three-orders",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1533. Find the Index of the Large Integer",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-large-integer",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1538. Guess the Majority in a Hidden Array",
+    "link": "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1543. Fix Product Name Format",
+    "link": "https://leetcode.com/problems/fix-product-name-format",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1548. The Most Similar Path in a Graph",
+    "link": "https://leetcode.com/problems/the-most-similar-path-in-a-graph",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1549. The Most Recent Orders for Each Product",
+    "link": "https://leetcode.com/problems/the-most-recent-orders-for-each-product",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1554. Strings Differ by One Character",
+    "link": "https://leetcode.com/problems/strings-differ-by-one-character",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1555. Bank Account Summary",
+    "link": "https://leetcode.com/problems/bank-account-summary",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1564. Put Boxes Into the Warehouse I",
+    "link": "https://leetcode.com/problems/put-boxes-into-the-warehouse-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1565. Unique Orders and Customers Per Month",
+    "link": "https://leetcode.com/problems/unique-orders-and-customers-per-month",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1570. Dot Product of Two Sparse Vectors",
+    "link": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1571. Warehouse Manager",
+    "link": "https://leetcode.com/problems/warehouse-manager",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1580. Put Boxes Into the Warehouse II",
+    "link": "https://leetcode.com/problems/put-boxes-into-the-warehouse-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1586. Binary Search Tree Iterator II",
+    "link": "https://leetcode.com/problems/binary-search-tree-iterator-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1596. The Most Frequently Ordered Products for Each Customer",
+    "link": "https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1597. Build Binary Expression Tree From Infix Expression",
+    "link": "https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1602. Find Nearest Right Node in Binary Tree",
+    "link": "https://leetcode.com/problems/find-nearest-right-node-in-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1607. Sellers With No Sales",
+    "link": "https://leetcode.com/problems/sellers-with-no-sales",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1612. Check If Two Expression Trees are Equivalent",
+    "link": "https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1613. Find the Missing IDs",
+    "link": "https://leetcode.com/problems/find-the-missing-ids",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1618. Maximum Font to Fit a Sentence in a Screen",
+    "link": "https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1623. All Valid Triplets That Can Represent a Country",
+    "link": "https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1628. Design an Expression Tree With Evaluate Function",
+    "link": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1634. Add Two Polynomials Represented as Linked Lists",
+    "link": "https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1635. Hopper Company Queries I",
+    "link": "https://leetcode.com/problems/hopper-company-queries-i",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1644. Lowest Common Ancestor of a Binary Tree II",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1645. Hopper Company Queries II",
+    "link": "https://leetcode.com/problems/hopper-company-queries-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1650. Lowest Common Ancestor of a Binary Tree III",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1651. Hopper Company Queries III",
+    "link": "https://leetcode.com/problems/hopper-company-queries-iii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1660. Correct a Binary Tree",
+    "link": "https://leetcode.com/problems/correct-a-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1666. Change the Root of a Binary Tree",
+    "link": "https://leetcode.com/problems/change-the-root-of-a-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1676. Lowest Common Ancestor of a Binary Tree IV",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1677. Product's Worth Over Invoices",
+    "link": "https://leetcode.com/problems/products-worth-over-invoices",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1682. Longest Palindromic Subsequence II",
+    "link": "https://leetcode.com/problems/longest-palindromic-subsequence-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1692. Count Ways to Distribute Candies",
+    "link": "https://leetcode.com/problems/count-ways-to-distribute-candies",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1698. Number of Distinct Substrings in a String",
+    "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1699. Number of Calls Between Two Persons",
+    "link": "https://leetcode.com/problems/number-of-calls-between-two-persons",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1708. Largest Subarray Length K",
+    "link": "https://leetcode.com/problems/largest-subarray-length-k",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1709. Biggest Window Between Visits",
+    "link": "https://leetcode.com/problems/biggest-window-between-visits",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1714. Sum Of Special Evenly-Spaced Elements In Array",
+    "link": "https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1715. Count Apples and Oranges",
+    "link": "https://leetcode.com/problems/count-apples-and-oranges",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1724. Checking Existence of Edge Length Limited Paths II",
+    "link": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1730. Shortest Path to Get Food",
+    "link": "https://leetcode.com/problems/shortest-path-to-get-food",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1740. Find Distance in a Binary Tree",
+    "link": "https://leetcode.com/problems/find-distance-in-a-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1746. Maximum Subarray Sum After One Operation",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1747. Leetflex Banned Accounts",
+    "link": "https://leetcode.com/problems/leetflex-banned-accounts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1756. Design Most Recently Used Queue",
+    "link": "https://leetcode.com/problems/design-most-recently-used-queue",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1762. Buildings With an Ocean View",
+    "link": "https://leetcode.com/problems/buildings-with-an-ocean-view",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1767. Find the Subtasks That Did Not Execute",
+    "link": "https://leetcode.com/problems/find-the-subtasks-that-did-not-execute",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1772. Sort Features by Popularity",
+    "link": "https://leetcode.com/problems/sort-features-by-popularity",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1777. Product's Price for Each Store",
+    "link": "https://leetcode.com/problems/products-price-for-each-store",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1778. Shortest Path in a Hidden Grid",
+    "link": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1783. Grand Slam Titles",
+    "link": "https://leetcode.com/problems/grand-slam-titles",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1788. Maximize the Beauty of the Garden",
+    "link": "https://leetcode.com/problems/maximize-the-beauty-of-the-garden",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1794. Count Pairs of Equal Substrings With Minimum Difference",
+    "link": "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1804. Implement Trie II (Prefix Tree)",
+    "link": "https://leetcode.com/problems/implement-trie-ii-prefix-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1809. Ad-Free Sessions",
+    "link": "https://leetcode.com/problems/ad-free-sessions",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1810. Minimum Path Cost in a Hidden Grid",
+    "link": "https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1811. Find Interview Candidates",
+    "link": "https://leetcode.com/problems/find-interview-candidates",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1820. Maximum Number of Accepted Invitations",
+    "link": "https://leetcode.com/problems/maximum-number-of-accepted-invitations",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1821. Find Customers With Positive Revenue this Year",
+    "link": "https://leetcode.com/problems/find-customers-with-positive-revenue-this-year",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1826. Faulty Sensor",
+    "link": "https://leetcode.com/problems/faulty-sensor",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1831. Maximum Transaction Each Day",
+    "link": "https://leetcode.com/problems/maximum-transaction-each-day",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1836. Remove Duplicates From an Unsorted Linked List",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1841. League Statistics",
+    "link": "https://leetcode.com/problems/league-statistics",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1842. Next Palindrome Using Same Digits",
+    "link": "https://leetcode.com/problems/next-palindrome-using-same-digits",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1843. Suspicious Bank Accounts",
+    "link": "https://leetcode.com/problems/suspicious-bank-accounts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1852. Distinct Numbers in Each Subarray",
+    "link": "https://leetcode.com/problems/distinct-numbers-in-each-subarray",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1853. Convert Date Format",
+    "link": "https://leetcode.com/problems/convert-date-format",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1858. Longest Word With All Prefixes",
+    "link": "https://leetcode.com/problems/longest-word-with-all-prefixes",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1867. Orders With Maximum Quantity Above Average",
+    "link": "https://leetcode.com/problems/orders-with-maximum-quantity-above-average",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1868. Product of Two Run-Length Encoded Arrays",
+    "link": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1874. Minimize Product Sum of Two Arrays",
+    "link": "https://leetcode.com/problems/minimize-product-sum-of-two-arrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1875. Group Employees of the Same Salary",
+    "link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1885. Count Pairs in Two Arrays",
+    "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1891. Cutting Ribbons",
+    "link": "https://leetcode.com/problems/cutting-ribbons",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1892. Page Recommendations II",
+    "link": "https://leetcode.com/problems/page-recommendations-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1902. Depth of BST Given Insertion Order",
+    "link": "https://leetcode.com/problems/depth-of-bst-given-insertion-order",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1908. Game of Nim",
+    "link": "https://leetcode.com/problems/game-of-nim",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1917. Leetcodify Friends Recommendations",
+    "link": "https://leetcode.com/problems/leetcodify-friends-recommendations",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1918. Kth Smallest Subarray Sum",
+    "link": "https://leetcode.com/problems/kth-smallest-subarray-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1919. Leetcodify Similar Friends",
+    "link": "https://leetcode.com/problems/leetcodify-similar-friends",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1924. Erect the Fence II",
+    "link": "https://leetcode.com/problems/erect-the-fence-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1933. Check if String Is Decomposable Into Value-Equal Substrings",
+    "link": "https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1939. Users That Actively Request Confirmation Messages",
+    "link": "https://leetcode.com/problems/users-that-actively-request-confirmation-messages",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1940. Longest Common Subsequence Between Sorted Arrays",
+    "link": "https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1949. Strong Friendship",
+    "link": "https://leetcode.com/problems/strong-friendship",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1950. Maximum of Minimum Values in All Subarrays",
+    "link": "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1951. All the Pairs With the Maximum Number of Common Followers",
+    "link": "https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1956. Minimum Time For K Virus Variants to Spread",
+    "link": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1966. Binary Searchable Numbers in an Unsorted Array",
+    "link": "https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1972. First and Last Call On the Same Day",
+    "link": "https://leetcode.com/problems/first-and-last-call-on-the-same-day",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1973. Count Nodes Equal to Sum of Descendants",
+    "link": "https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1983. Widest Pair of Indices With Equal Range Sum",
+    "link": "https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1988. Find Cutoff Score for Each School",
+    "link": "https://leetcode.com/problems/find-cutoff-score-for-each-school",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1989. Maximum Number of People That Can Be Caught in Tag",
+    "link": "https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1990. Count the Number of Experiments",
+    "link": "https://leetcode.com/problems/count-the-number-of-experiments",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1999. Smallest Greater Multiple Made of Two Digits",
+    "link": "https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2004. The Number of Seniors and Juniors to Join the Company",
+    "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2005. Subtree Removal Game with Fibonacci Tree",
+    "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2010. The Number of Seniors and Juniors to Join the Company II",
+    "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2015. Average Height of Buildings in Each Segment",
+    "link": "https://leetcode.com/problems/average-height-of-buildings-in-each-segment",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2020. Number of Accounts That Did Not Stream",
+    "link": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2021. Brightest Position on Street",
+    "link": "https://leetcode.com/problems/brightest-position-on-street",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2026. Low-Quality Problems",
+    "link": "https://leetcode.com/problems/low-quality-problems",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2031. Count Subarrays With More Ones Than Zeros",
+    "link": "https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2036. Maximum Alternating Subarray Sum",
+    "link": "https://leetcode.com/problems/maximum-alternating-subarray-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2041. Accepted Candidates From the Interviews",
+    "link": "https://leetcode.com/problems/accepted-candidates-from-the-interviews",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2046. Sort Linked List Already Sorted Using Absolute Values",
+    "link": "https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2051. The Category of Each Member in the Store",
+    "link": "https://leetcode.com/problems/the-category-of-each-member-in-the-store",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2052. Minimum Cost to Separate Sentence Into Rows",
+    "link": "https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2061. Number of Spaces Cleaning Robot Cleaned",
+    "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2066. Account Balance",
+    "link": "https://leetcode.com/problems/account-balance",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2067. Number of Equal Count Substrings",
+    "link": "https://leetcode.com/problems/number-of-equal-count-substrings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2072. The Winner University",
+    "link": "https://leetcode.com/problems/the-winner-university",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2077. Paths in Maze That Lead to Same Room",
+    "link": "https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2082. The Number of Rich Customers",
+    "link": "https://leetcode.com/problems/the-number-of-rich-customers",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2083. Substrings That Begin and End With the Same Letter",
+    "link": "https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2084. Drop Type 1 Orders for Customers With Type 0 Orders",
+    "link": "https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2093. Minimum Cost to Reach City With Discounts",
+    "link": "https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2098. Subsequence of Size K With the Largest Even Sum",
+    "link": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2107. Number of Unique Flavors After Sharing K Candies",
+    "link": "https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2112. The Airport With the Most Traffic",
+    "link": "https://leetcode.com/problems/the-airport-with-the-most-traffic",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2113. Elements in Array After Removing and Replacing Elements",
+    "link": "https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2118. Build the Equation",
+    "link": "https://leetcode.com/problems/build-the-equation",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2123. Minimum Operations to Remove Adjacent Ones in Matrix",
+    "link": "https://leetcode.com/problems/minimum-operations-to-remove-adjacent-ones-in-matrix",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2128. Remove All Ones With Row and Column Flips",
+    "link": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2137. Pour Water Between Buckets to Make Water Levels Equal",
+    "link": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2142. The Number of Passengers in Each Bus I",
+    "link": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2143. Choose Numbers From Two Arrays in Range",
+    "link": "https://leetcode.com/problems/choose-numbers-from-two-arrays-in-range",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2152. Minimum Number of Lines to Cover Points",
+    "link": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2153. The Number of Passengers in Each Bus II",
+    "link": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2158. Amount of New Area Painted Each Day",
+    "link": "https://leetcode.com/problems/amount-of-new-area-painted-each-day",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2159. Order Two Columns Independently",
+    "link": "https://leetcode.com/problems/order-two-columns-independently",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2168. Unique Substrings With Equal Digit Frequency",
+    "link": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2173. Longest Winning Streak",
+    "link": "https://leetcode.com/problems/longest-winning-streak",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2174. Remove All Ones With Row and Column Flips II",
+    "link": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2175. The Change in Global Rankings",
+    "link": "https://leetcode.com/problems/the-change-in-global-rankings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2184. Number of Ways to Build Sturdy Brick Wall",
+    "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2189. Number of Ways to Build House of Cards",
+    "link": "https://leetcode.com/problems/number-of-ways-to-build-house-of-cards",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2198. Number of Single Divisor Triplets",
+    "link": "https://leetcode.com/problems/number-of-single-divisor-triplets",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2199. Finding the Topic of Each Post",
+    "link": "https://leetcode.com/problems/finding-the-topic-of-each-post",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2204. Distance to a Cycle in Undirected Graph",
+    "link": "https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2205. The Number of Users That Are Eligible for Discount",
+    "link": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2214. Minimum Health to Beat Game",
+    "link": "https://leetcode.com/problems/minimum-health-to-beat-game",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2219. Maximum Sum Score of Array",
+    "link": "https://leetcode.com/problems/maximum-sum-score-of-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2228. Users With Two Purchases Within Seven Days",
+    "link": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2229. Check if an Array Is Consecutive",
+    "link": "https://leetcode.com/problems/check-if-an-array-is-consecutive",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2230. The Users That Are Eligible for Discount",
+    "link": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2237. Count Positions on Street With Required Brightness",
+    "link": "https://leetcode.com/problems/count-positions-on-street-with-required-brightness",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2238. Number of Times a Driver Was a Passenger",
+    "link": "https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2247. Maximum Cost of Trip With K Highways",
+    "link": "https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2252. Dynamic Pivoting of a Table",
+    "link": "https://leetcode.com/problems/dynamic-pivoting-of-a-table",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2253. Dynamic Unpivoting of a Table",
+    "link": "https://leetcode.com/problems/dynamic-unpivoting-of-a-table",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2254. Design Video Sharing Platform",
+    "link": "https://leetcode.com/problems/design-video-sharing-platform",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2263. Make Array Non-decreasing or Non-increasing",
+    "link": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2268. Minimum Number of Keypresses",
+    "link": "https://leetcode.com/problems/minimum-number-of-keypresses",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2277. Closest Node to Path in Tree",
+    "link": "https://leetcode.com/problems/closest-node-to-path-in-tree",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2282. Number of People That Can Be Seen in a Grid",
+    "link": "https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2291. Maximum Profit From Trading Stocks",
+    "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2292. Products With Three or More Orders in Two Consecutive Years",
+    "link": "https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2297. Jump Game VIII",
+    "link": "https://leetcode.com/problems/jump-game-viii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2298. Tasks Count in the Weekend",
+    "link": "https://leetcode.com/problems/tasks-count-in-the-weekend",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2307. Check for Contradictions in Equations",
+    "link": "https://leetcode.com/problems/check-for-contradictions-in-equations",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2308. Arrange Table by Gender",
+    "link": "https://leetcode.com/problems/arrange-table-by-gender",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2313. Minimum Flips in Binary Tree to Get Result",
+    "link": "https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2314. The First Day of the Maximum Recorded Degree in Each City",
+    "link": "https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2323. Find Minimum Time to Finish All Jobs II",
+    "link": "https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2324. Product Sales Analysis IV",
+    "link": "https://leetcode.com/problems/product-sales-analysis-iv",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2329. Product Sales Analysis V",
+    "link": "https://leetcode.com/problems/product-sales-analysis-v",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2330. Valid Palindrome IV",
+    "link": "https://leetcode.com/problems/valid-palindrome-iv",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2339. All the Matches of the League",
+    "link": "https://leetcode.com/problems/all-the-matches-of-the-league",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2340. Minimum Adjacent Swaps to Make a Valid Array",
+    "link": "https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2345. Finding the Number of Visible Mountains",
+    "link": "https://leetcode.com/problems/finding-the-number-of-visible-mountains",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2346. Compute the Rank as a Percentage",
+    "link": "https://leetcode.com/problems/compute-the-rank-as-a-percentage",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2355. Maximum Number of Books You Can Take",
+    "link": "https://leetcode.com/problems/maximum-number-of-books-you-can-take",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2361. Minimum Costs Using the Train Line",
+    "link": "https://leetcode.com/problems/minimum-costs-using-the-train-line",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2362. Generate the Invoice",
+    "link": "https://leetcode.com/problems/generate-the-invoice",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2371. Minimize Maximum Value in a Grid",
+    "link": "https://leetcode.com/problems/minimize-maximum-value-in-a-grid",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2372. Calculate the Influence of Each Salesperson",
+    "link": "https://leetcode.com/problems/calculate-the-influence-of-each-salesperson",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2377. Sort the Olympic Table",
+    "link": "https://leetcode.com/problems/sort-the-olympic-table",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2378. Choose Edges to Maximize Score in a Tree",
+    "link": "https://leetcode.com/problems/choose-edges-to-maximize-score-in-a-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2387. Median of a Row Wise Sorted Matrix",
+    "link": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2388. Change Null Values in a Table to the Previous Value",
+    "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2393. Count Strictly Increasing Subarrays",
+    "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2394. Employees With Deductions",
+    "link": "https://leetcode.com/problems/employees-with-deductions",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2403. Minimum Time to Kill All Monsters",
+    "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2408. Design SQL",
+    "link": "https://leetcode.com/problems/design-sql",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2417. Closest Fair Integer",
+    "link": "https://leetcode.com/problems/closest-fair-integer",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2422. Merge Operations to Turn Array Into a Palindrome",
+    "link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2431. Maximize Total Tastiness of Purchased Fruits",
+    "link": "https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2436. Minimum Split Into Subarrays With GCD Greater Than One",
+    "link": "https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2445. Number of Nodes With Value One",
+    "link": "https://leetcode.com/problems/number-of-nodes-with-value-one",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2450. Number of Distinct Binary Strings After Applying Operations",
+    "link": "https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2459. Sort Array by Moving Items to Empty Space",
+    "link": "https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2464. Minimum Subarrays in a Valid Split",
+    "link": "https://leetcode.com/problems/minimum-subarrays-in-a-valid-split",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2473. Minimum Cost to Buy Apples",
+    "link": "https://leetcode.com/problems/minimum-cost-to-buy-apples",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2474. Customers With Strictly Increasing Purchases",
+    "link": "https://leetcode.com/problems/customers-with-strictly-increasing-purchases",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2479. Maximum XOR of Two Non-Overlapping Subtrees",
+    "link": "https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2480. Form a Chemical Bond",
+    "link": "https://leetcode.com/problems/form-a-chemical-bond",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2489. Number of Substrings With Fixed Ratio",
+    "link": "https://leetcode.com/problems/number-of-substrings-with-fixed-ratio",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2494. Merge Overlapping Events in the Same Hall",
+    "link": "https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2495. Number of Subarrays Having Even Product",
+    "link": "https://leetcode.com/problems/number-of-subarrays-having-even-product",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2504. Concatenate the Name and the Profession",
+    "link": "https://leetcode.com/problems/concatenate-the-name-and-the-profession",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2505. Bitwise OR of All Subsequence Sums",
+    "link": "https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2510. Check if There is a Path With Equal Number of 0's And 1's",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2519. Count the Number of K-Big Indices",
+    "link": "https://leetcode.com/problems/count-the-number-of-k-big-indices",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2524. Maximum Frequency Score of a Subarray",
+    "link": "https://leetcode.com/problems/maximum-frequency-score-of-a-subarray",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2533. Number of Good Binary Strings",
+    "link": "https://leetcode.com/problems/number-of-good-binary-strings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2534. Time Taken to Cross the Door",
+    "link": "https://leetcode.com/problems/time-taken-to-cross-the-door",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2539. Count the Number of Good Subsequences",
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2548. Maximum Price to Fill a Bag",
+    "link": "https://leetcode.com/problems/maximum-price-to-fill-a-bag",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2557. Maximum Number of Integers to Choose From a Range II",
+    "link": "https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2590. Design a Todo List",
+    "link": "https://leetcode.com/problems/design-a-todo-list",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2599. Make the Prefix Sum Non-negative",
+    "link": "https://leetcode.com/problems/make-the-prefix-sum-non-negative",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2604. Minimum Time to Eat All Grains",
+    "link": "https://leetcode.com/problems/minimum-time-to-eat-all-grains",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2613. Beautiful Pairs",
+    "link": "https://leetcode.com/problems/beautiful-pairs",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2628. JSON Deep Equal",
+    "link": "https://leetcode.com/problems/json-deep-equal",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2632. Curry",
+    "link": "https://leetcode.com/problems/curry",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2633. Convert Object to JSON String",
+    "link": "https://leetcode.com/problems/convert-object-to-json-string",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2636. Promise Pool",
+    "link": "https://leetcode.com/problems/promise-pool",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2638. Count the Number of K-Free Subsets",
+    "link": "https://leetcode.com/problems/count-the-number-of-k-free-subsets",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2647. Color the Triangle Red",
+    "link": "https://leetcode.com/problems/color-the-triangle-red",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2655. Find Maximal Uncovered Ranges",
+    "link": "https://leetcode.com/problems/find-maximal-uncovered-ranges",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2664. The Knight’s Tour",
+    "link": "https://leetcode.com/problems/the-knights-tour",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2668. Find Latest Salaries",
+    "link": "https://leetcode.com/problems/find-latest-salaries",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2669. Count Artist Occurrences On Spotify Ranking List",
+    "link": "https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2674. Split a Circular Linked List",
+    "link": "https://leetcode.com/problems/split-a-circular-linked-list",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2675. Array of Objects to Matrix",
+    "link": "https://leetcode.com/problems/array-of-objects-to-matrix",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2676. Throttle",
+    "link": "https://leetcode.com/problems/throttle",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2686. Immediate Food Delivery III",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2687. Bikes Last Time Used",
+    "link": "https://leetcode.com/problems/bikes-last-time-used",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2688. Find Active Users",
+    "link": "https://leetcode.com/problems/find-active-users",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2689. Extract Kth Character From The Rope Tree",
+    "link": "https://leetcode.com/problems/extract-kth-character-from-the-rope-tree",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2690. Infinite Method Object",
+    "link": "https://leetcode.com/problems/infinite-method-object",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2691. Immutability Helper",
+    "link": "https://leetcode.com/problems/immutability-helper",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2692. Make Object Immutable",
+    "link": "https://leetcode.com/problems/make-object-immutable",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2700. Differences Between Two Objects",
+    "link": "https://leetcode.com/problems/differences-between-two-objects",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2701. Consecutive Transactions with Increasing Amounts",
+    "link": "https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2702. Minimum Operations to Make Numbers Non-positive",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2714. Find Shortest Path with K Hops",
+    "link": "https://leetcode.com/problems/find-shortest-path-with-k-hops",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2720. Popularity Percentage",
+    "link": "https://leetcode.com/problems/popularity-percentage",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2728. Count Houses in a Circular Street",
+    "link": "https://leetcode.com/problems/count-houses-in-a-circular-street",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2737. Find the Closest Marked Node",
+    "link": "https://leetcode.com/problems/find-the-closest-marked-node",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2738. Count Occurrences in Text",
+    "link": "https://leetcode.com/problems/count-occurrences-in-text",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2743. Count Substrings Without Repeating Character",
+    "link": "https://leetcode.com/problems/count-substrings-without-repeating-character",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2752. Customers with Maximum Number of Transactions on Consecutive Days",
+    "link": "https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2753. Count Houses in a Circular Street II",
+    "link": "https://leetcode.com/problems/count-houses-in-a-circular-street-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2754. Bind Function to Context",
+    "link": "https://leetcode.com/problems/bind-function-to-context",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2755. Deep Merge of Two Objects",
+    "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2756. Query Batching",
+    "link": "https://leetcode.com/problems/query-batching",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2757. Generate Circular Array Values",
+    "link": "https://leetcode.com/problems/generate-circular-array-values",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2758. Next Day",
+    "link": "https://leetcode.com/problems/next-day",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2759. Convert JSON String to Object",
+    "link": "https://leetcode.com/problems/convert-json-string-to-object",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2764. Is Array a Preorder of Some ‌Binary Tree",
+    "link": "https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2773. Height of Special Binary Tree",
+    "link": "https://leetcode.com/problems/height-of-special-binary-tree",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2774. Array Upper Bound",
+    "link": "https://leetcode.com/problems/array-upper-bound",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2775. Undefined to Null",
+    "link": "https://leetcode.com/problems/undefined-to-null",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2776. Convert Callback Based Function to Promise Based Function",
+    "link": "https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2777. Date Range Generator",
+    "link": "https://leetcode.com/problems/date-range-generator",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2782. Number of Unique Categories",
+    "link": "https://leetcode.com/problems/number-of-unique-categories",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2783. Flight Occupancy and Waitlist Analysis",
+    "link": "https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2792. Count Nodes That Are Great Enough",
+    "link": "https://leetcode.com/problems/count-nodes-that-are-great-enough",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2793. Status of Flight Tickets",
+    "link": "https://leetcode.com/problems/status-of-flight-tickets",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2794. Create Object from Two Arrays",
+    "link": "https://leetcode.com/problems/create-object-from-two-arrays",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2795. Parallel Execution of Promises for Individual Results Retrieval",
+    "link": "https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2796. Repeat String",
+    "link": "https://leetcode.com/problems/repeat-string",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2797. Partial Function with Placeholders",
+    "link": "https://leetcode.com/problems/partial-function-with-placeholders",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2802. Find The K-th Lucky Number",
+    "link": "https://leetcode.com/problems/find-the-k-th-lucky-number",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2803. Factorial Generator",
+    "link": "https://leetcode.com/problems/factorial-generator",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2804. Array Prototype ForEach",
+    "link": "https://leetcode.com/problems/array-prototype-foreach",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2805. Custom Interval",
+    "link": "https://leetcode.com/problems/custom-interval",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2814. Minimum Time Takes to Reach Destination Without Drowning",
+    "link": "https://leetcode.com/problems/minimum-time-takes-to-reach-destination-without-drowning",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2819. Minimum Relative Loss After Buying Chocolates",
+    "link": "https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2820. Election Results",
+    "link": "https://leetcode.com/problems/election-results",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2821. Delay the Resolution of Each Promise",
+    "link": "https://leetcode.com/problems/delay-the-resolution-of-each-promise",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2822. Inversion of Object",
+    "link": "https://leetcode.com/problems/inversion-of-object",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2823. Deep Object Filter",
+    "link": "https://leetcode.com/problems/deep-object-filter",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2832. Maximal Range That Each Element Is Maximum in It",
+    "link": "https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2837. Total Traveled Distance",
+    "link": "https://leetcode.com/problems/total-traveled-distance",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2838. Maximum Coins Heroes Can Collect",
+    "link": "https://leetcode.com/problems/maximum-coins-heroes-can-collect",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2847. Smallest Number With Given Digit Product",
+    "link": "https://leetcode.com/problems/smallest-number-with-given-digit-product",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2852. Sum of Remoteness of All Cells",
+    "link": "https://leetcode.com/problems/sum-of-remoteness-of-all-cells",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2853. Highest Salaries Difference",
+    "link": "https://leetcode.com/problems/highest-salaries-difference",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2854. Rolling Average Steps",
+    "link": "https://leetcode.com/problems/rolling-average-steps",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2863. Maximum Length of Semi-Decreasing Subarrays",
+    "link": "https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2868. The Wording Game",
+    "link": "https://leetcode.com/problems/the-wording-game",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2892. Minimizing Array After Replacing Pairs With Their Product",
+    "link": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2893. Calculate Orders Within Each Interval",
+    "link": "https://leetcode.com/problems/calculate-orders-within-each-interval",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2898. Maximum Linear Stock Score",
+    "link": "https://leetcode.com/problems/maximum-linear-stock-score",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2907. Maximum Profitable Triplets With Increasing Prices I",
+    "link": "https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2912. Number of Ways to Reach Destination in the Grid",
+    "link": "https://leetcode.com/problems/number-of-ways-to-reach-destination-in-the-grid",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2921. Maximum Profitable Triplets With Increasing Prices II",
+    "link": "https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2922. Market Analysis III",
+    "link": "https://leetcode.com/problems/market-analysis-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2927. Distribute Candies Among Children III",
+    "link": "https://leetcode.com/problems/distribute-candies-among-children-iii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2936. Number of Equal Numbers Blocks",
+    "link": "https://leetcode.com/problems/number-of-equal-numbers-blocks",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2941. Maximum GCD-Sum of a Subarray",
+    "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2950. Number of Divisible Substrings",
+    "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2955. Number of Same-End Substrings",
+    "link": "https://leetcode.com/problems/number-of-same-end-substrings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2964. Number of Divisible Triplet Sums",
+    "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2969. Minimum Number of Coins for Fruits II",
+    "link": "https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2978. Symmetric Coordinates",
+    "link": "https://leetcode.com/problems/symmetric-coordinates",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2979. Most Expensive Item That Can Not Be Bought",
+    "link": "https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2984. Find Peak Calling Hours for Each City",
+    "link": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2985. Calculate Compressed Mean",
+    "link": "https://leetcode.com/problems/calculate-compressed-mean",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2986. Find Third Transaction",
+    "link": "https://leetcode.com/problems/find-third-transaction",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2987. Find Expensive Cities",
+    "link": "https://leetcode.com/problems/find-expensive-cities",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2988. Manager of the Largest Department",
+    "link": "https://leetcode.com/problems/manager-of-the-largest-department",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2989. Class Performance",
+    "link": "https://leetcode.com/problems/class-performance",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2990. Loan Types",
+    "link": "https://leetcode.com/problems/loan-types",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2991. Top Three Wineries",
+    "link": "https://leetcode.com/problems/top-three-wineries",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2992. Number of Self-Divisible Permutations",
+    "link": "https://leetcode.com/problems/number-of-self-divisible-permutations",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2993. Friday Purchases I",
+    "link": "https://leetcode.com/problems/friday-purchases-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2994. Friday Purchases II",
+    "link": "https://leetcode.com/problems/friday-purchases-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2995. Viewers Turned Streamers",
+    "link": "https://leetcode.com/problems/viewers-turned-streamers",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3004. Maximum Subtree of the Same Color",
+    "link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3009. Maximum Number of Intersections on the Chart",
+    "link": "https://leetcode.com/problems/maximum-number-of-intersections-on-the-chart",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3018. Maximum Number of Removal Queries That Can Be Processed I",
+    "link": "https://leetcode.com/problems/maximum-number-of-removal-queries-that-can-be-processed-i",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3023. Find Pattern in Infinite Stream I",
+    "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3032. Count Numbers With Unique Digits II",
+    "link": "https://leetcode.com/problems/count-numbers-with-unique-digits-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3037. Find Pattern in Infinite Stream II",
+    "link": "https://leetcode.com/problems/find-pattern-in-infinite-stream-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3050. Pizza Toppings Cost Analysis",
+    "link": "https://leetcode.com/problems/pizza-toppings-cost-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3051. Find Candidates for Data Scientist Position",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3052. Maximize Items",
+    "link": "https://leetcode.com/problems/maximize-items",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3053. Classifying Triangles by Lengths",
+    "link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3054. Binary Tree Nodes",
+    "link": "https://leetcode.com/problems/binary-tree-nodes",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3055. Top Percentile Fraud",
+    "link": "https://leetcode.com/problems/top-percentile-fraud",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3056. Snaps Analysis",
+    "link": "https://leetcode.com/problems/snaps-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3057. Employees Project Allocation",
+    "link": "https://leetcode.com/problems/employees-project-allocation",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3058. Friends With No Mutual Friends",
+    "link": "https://leetcode.com/problems/friends-with-no-mutual-friends",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3059. Find All Unique Email Domains",
+    "link": "https://leetcode.com/problems/find-all-unique-email-domains",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3060. User Activities within Time Bounds",
+    "link": "https://leetcode.com/problems/user-activities-within-time-bounds",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3061. Calculate Trapping Rain Water",
+    "link": "https://leetcode.com/problems/calculate-trapping-rain-water",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3062. Winner of the Linked List Game",
+    "link": "https://leetcode.com/problems/winner-of-the-linked-list-game",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3063. Linked List Frequency",
+    "link": "https://leetcode.com/problems/linked-list-frequency",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3064. Guess the Number Using Bitwise Questions I",
+    "link": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3073. Maximum Increasing Triplet Value",
+    "link": "https://leetcode.com/problems/maximum-increasing-triplet-value",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3078. Match Alphanumerical Pattern in Matrix I",
+    "link": "https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3087. Find Trending Hashtags",
+    "link": "https://leetcode.com/problems/find-trending-hashtags",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3088. Make String Anti-palindrome",
+    "link": "https://leetcode.com/problems/make-string-anti-palindrome",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3089. Find Bursty Behavior",
+    "link": "https://leetcode.com/problems/find-bursty-behavior",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3094. Guess the Number Using Bitwise Questions II",
+    "link": "https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3103. Find Trending Hashtags II",
+    "link": "https://leetcode.com/problems/find-trending-hashtags-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3104. Find Longest Self-Contained Substring",
+    "link": "https://leetcode.com/problems/find-longest-self-contained-substring",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3109. Find the Index of Permutation",
+    "link": "https://leetcode.com/problems/find-the-index-of-permutation",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3118. Friday Purchase III",
+    "link": "https://leetcode.com/problems/friday-purchase-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3119. Maximum Number of Potholes That Can Be Fixed",
+    "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3124. Find Longest Calls",
+    "link": "https://leetcode.com/problems/find-longest-calls",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3125. Maximum Number That Makes Result of Bitwise AND Zero",
+    "link": "https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3126. Server Utilization Time",
+    "link": "https://leetcode.com/problems/server-utilization-time",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3135. Equalize Strings by Adding or Removing Characters at Ends",
+    "link": "https://leetcode.com/problems/equalize-strings-by-adding-or-removing-characters-at-ends",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3140. Consecutive Available Seats II",
+    "link": "https://leetcode.com/problems/consecutive-available-seats-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3141. Maximum Hamming Distances",
+    "link": "https://leetcode.com/problems/maximum-hamming-distances",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3150. Invalid Tweets II",
+    "link": "https://leetcode.com/problems/invalid-tweets-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3155. Maximum Number of Upgradable Servers",
+    "link": "https://leetcode.com/problems/maximum-number-of-upgradable-servers",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3156. Employee Task Duration and Concurrent Tasks",
+    "link": "https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3157. Find the Level of Tree with Minimum Sum",
+    "link": "https://leetcode.com/problems/find-the-level-of-tree-with-minimum-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3166. Calculate Parking Fees and Duration",
+    "link": "https://leetcode.com/problems/calculate-parking-fees-and-duration",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3167. Better Compression of String",
+    "link": "https://leetcode.com/problems/better-compression-of-string",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3172. Second Day Verification",
+    "link": "https://leetcode.com/problems/second-day-verification",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3173. Bitwise OR of Adjacent Elements",
+    "link": "https://leetcode.com/problems/bitwise-or-of-adjacent-elements",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3182. Find Top Scoring Students",
+    "link": "https://leetcode.com/problems/find-top-scoring-students",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3183. The Number of Ways to Make the Sum",
+    "link": "https://leetcode.com/problems/the-number-of-ways-to-make-the-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3188. Find Top Scoring Students II",
+    "link": "https://leetcode.com/problems/find-top-scoring-students-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3189. Minimum Moves to Get a Peaceful Board",
+    "link": "https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3198. Find Cities in Each State",
+    "link": "https://leetcode.com/problems/find-cities-in-each-state",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3199. Count Triplets with Even XOR Set Bits I",
+    "link": "https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3204. Bitwise User Permissions Analysis",
+    "link": "https://leetcode.com/problems/bitwise-user-permissions-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3205. Maximum Array Hopping Score I",
+    "link": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3214. Year on Year Growth Rate",
+    "link": "https://leetcode.com/problems/year-on-year-growth-rate",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3215. Count Triplets with Even XOR Set Bits II",
+    "link": "https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3221. Maximum Array Hopping Score II",
+    "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3230. Customer Purchasing Behavior Analysis",
+    "link": "https://leetcode.com/problems/customer-purchasing-behavior-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3231. Minimum Number of Increasing Subsequence to Be Removed",
+    "link": "https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3236. CEO Subordinate Hierarchy",
+    "link": "https://leetcode.com/problems/ceo-subordinate-hierarchy",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3237. Alt and Tab Simulation",
+    "link": "https://leetcode.com/problems/alt-and-tab-simulation",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3246. Premier League Table Ranking",
+    "link": "https://leetcode.com/problems/premier-league-table-ranking",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3247. Number of Subsequences with Odd Sum",
+    "link": "https://leetcode.com/problems/number-of-subsequences-with-odd-sum",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3252. Premier League Table Ranking II",
+    "link": "https://leetcode.com/problems/premier-league-table-ranking-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3253. Construct String with Minimum Cost (Easy)",
+    "link": "https://leetcode.com/problems/construct-string-with-minimum-cost-easy",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3262. Find Overlapping Shifts",
+    "link": "https://leetcode.com/problems/find-overlapping-shifts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3263. Convert Doubly Linked List to Array I",
+    "link": "https://leetcode.com/problems/convert-doubly-linked-list-to-array-i",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3268. Find Overlapping Shifts II",
+    "link": "https://leetcode.com/problems/find-overlapping-shifts-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3269. Constructing Two Increasing Arrays",
+    "link": "https://leetcode.com/problems/constructing-two-increasing-arrays",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3278. Find Candidates for Data Scientist Position II",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3279. Maximum Total Area Occupied by Pistons",
+    "link": "https://leetcode.com/problems/maximum-total-area-occupied-by-pistons",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3284. Sum of Consecutive Subarrays",
+    "link": "https://leetcode.com/problems/sum-of-consecutive-subarrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3293. Calculate Product Final Price",
+    "link": "https://leetcode.com/problems/calculate-product-final-price",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3294. Convert Doubly Linked List to Array II",
+    "link": "https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3299. Sum of Consecutive Subsequences",
+    "link": "https://leetcode.com/problems/sum-of-consecutive-subsequences",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3308. Find Top Performing Driver",
+    "link": "https://leetcode.com/problems/find-top-performing-driver",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3313. Find the Last Marked Nodes in Tree",
+    "link": "https://leetcode.com/problems/find-the-last-marked-nodes-in-tree",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3322. Premier League Table Ranking III",
+    "link": "https://leetcode.com/problems/premier-league-table-ranking-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3323. Minimize Connected Groups by Inserting Interval",
+    "link": "https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3328. Find Cities in Each State II",
+    "link": "https://leetcode.com/problems/find-cities-in-each-state-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3329. Count Substrings With K-Frequency Characters II",
+    "link": "https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3338. Second Highest Salary II",
+    "link": "https://leetcode.com/problems/second-highest-salary-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3339. Find the Number of K-Even Arrays",
+    "link": "https://leetcode.com/problems/find-the-number-of-k-even-arrays",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3344. Maximum Sized Array",
+    "link": "https://leetcode.com/problems/maximum-sized-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3353. Minimum Total Operations",
+    "link": "https://leetcode.com/problems/minimum-total-operations",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3358. Books with NULL Ratings",
+    "link": "https://leetcode.com/problems/books-with-null-ratings",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3359. Find Sorted Submatrices With Maximum Element at Most K",
+    "link": "https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3368. First Letter Capitalization",
+    "link": "https://leetcode.com/problems/first-letter-capitalization",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3369. Design an Array Statistics Tracker",
+    "link": "https://leetcode.com/problems/design-an-array-statistics-tracker",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3383. Minimum Runes to Add to Cast Spell",
+    "link": "https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3384. Team Dominance by Pass Success",
+    "link": "https://leetcode.com/problems/team-dominance-by-pass-success",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3385. Minimum Time to Break Locks II",
+    "link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3390. Longest Team Pass Streak",
+    "link": "https://leetcode.com/problems/longest-team-pass-streak",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3391. Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3400. Maximum Number of Matching Indices After Right Shifts",
+    "link": "https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3401. Find Circular Gift Exchange Chains",
+    "link": "https://leetcode.com/problems/find-circular-gift-exchange-chains",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3406. Find the Lexicographically Largest String From the Box II",
+    "link": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3415. Find Products with Three Consecutive Digits",
+    "link": "https://leetcode.com/problems/find-products-with-three-consecutive-digits",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3416. Subsequences with a Unique Middle Mode II",
+    "link": "https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3422. Minimum Operations to Make Subarray Elements Equal",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3431. Minimum Unlocked Indices to Sort Nums",
+    "link": "https://leetcode.com/problems/minimum-unlocked-indices-to-sort-nums",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3437. Permutations III",
+    "link": "https://leetcode.com/problems/permutations-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3450. Maximum Students on a Single Bench",
+    "link": "https://leetcode.com/problems/maximum-students-on-a-single-bench",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3460. Longest Common Prefix After at Most One Removal",
+    "link": "https://leetcode.com/problems/longest-common-prefix-after-at-most-one-removal",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3466. Maximum Coin Collection",
+    "link": "https://leetcode.com/problems/maximum-coin-collection",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3476. Maximize Profit from Task Assignment",
+    "link": "https://leetcode.com/problems/maximize-profit-from-task-assignment",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3481. Apply Substitutions",
+    "link": "https://leetcode.com/problems/apply-substitutions",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3491. Phone Number Prefix",
+    "link": "https://leetcode.com/problems/phone-number-prefix",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3496. Maximize Score After Pair Deletions",
+    "link": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3506. Find Time Required to Eliminate Bacterial Strains",
+    "link": "https://leetcode.com/problems/find-time-required-to-eliminate-bacterial-strains",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3511. Make a Positive Array",
+    "link": "https://leetcode.com/problems/make-a-positive-array",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3520. Minimum Threshold for Inversion Pairs Count",
+    "link": "https://leetcode.com/problems/minimum-threshold-for-inversion-pairs-count",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3526. Range XOR Queries with Subarray Reversals",
+    "link": "https://leetcode.com/problems/range-xor-queries-with-subarray-reversals",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3535. Unit Conversion II",
+    "link": "https://leetcode.com/problems/unit-conversion-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3540. Minimum Time to Visit All Houses",
+    "link": "https://leetcode.com/problems/minimum-time-to-visit-all-houses",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3549. Multiply Two Polynomials",
+    "link": "https://leetcode.com/problems/multiply-two-polynomials",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3555. Smallest Subarray to Sort in Every Sliding Window",
+    "link": "https://leetcode.com/problems/smallest-subarray-to-sort-in-every-sliding-window",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3565. Sequential Grid Path Cover",
+    "link": "https://leetcode.com/problems/sequential-grid-path-cover",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3571. Find the Shortest Superstring II",
+    "link": "https://leetcode.com/problems/find-the-shortest-superstring-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3581. Count Odd Letters from Number",
+    "link": "https://leetcode.com/problems/count-odd-letters-from-number",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3595. Once Twice",
+    "link": "https://leetcode.com/problems/once-twice",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3596. Minimum Cost Path with Alternating Directions I",
+    "link": "https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3610. Minimum Number of Primes to Sum to Target",
+    "link": "https://leetcode.com/problems/minimum-number-of-primes-to-sum-to-target",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3616. Number of Student Replacements",
+    "link": "https://leetcode.com/problems/number-of-student-replacements",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3631. Sort Threats by Severity and Exploitability",
+    "link": "https://leetcode.com/problems/sort-threats-by-severity-and-exploitability",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3632. Subarrays with XOR at Least K",
+    "link": "https://leetcode.com/problems/subarrays-with-xor-at-least-k",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3641. Longest Semi-Repeating Subarray",
+    "link": "https://leetcode.com/problems/longest-semi-repeating-subarray",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3647. Maximum Weight in Two Bags",
+    "link": "https://leetcode.com/problems/maximum-weight-in-two-bags",
+    "difficulty": "Med"
+  }
+]

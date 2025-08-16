@@ -1,0 +1,1092 @@
+[
+  {
+    "Name": "512. Game Play Analysis II",
+    "link": "https://leetcode.com/problems/game-play-analysis-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "534. Game Play Analysis III",
+    "link": "https://leetcode.com/problems/game-play-analysis-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "569. Median Employee Salary",
+    "link": "https://leetcode.com/problems/median-employee-salary",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "571. Find Median Given Frequency of Numbers",
+    "link": "https://leetcode.com/problems/find-median-given-frequency-of-numbers",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "574. Winning Candidate",
+    "link": "https://leetcode.com/problems/winning-candidate",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "578. Get Highest Answer Rate Question",
+    "link": "https://leetcode.com/problems/get-highest-answer-rate-question",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "579. Find Cumulative Salary of an Employee",
+    "link": "https://leetcode.com/problems/find-cumulative-salary-of-an-employee",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "580. Count Student Number in Departments",
+    "link": "https://leetcode.com/problems/count-student-number-in-departments",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "597. Friend Requests I: Overall Acceptance Rate",
+    "link": "https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "603. Consecutive Available Seats",
+    "link": "https://leetcode.com/problems/consecutive-available-seats",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "612. Shortest Distance in a Plane",
+    "link": "https://leetcode.com/problems/shortest-distance-in-a-plane",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "613. Shortest Distance in a Line",
+    "link": "https://leetcode.com/problems/shortest-distance-in-a-line",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "614. Second Degree Follower",
+    "link": "https://leetcode.com/problems/second-degree-follower",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "615. Average Salary: Departments VS Company",
+    "link": "https://leetcode.com/problems/average-salary-departments-vs-company",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "618. Students Report By Geography",
+    "link": "https://leetcode.com/problems/students-report-by-geography",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1069. Product Sales Analysis II",
+    "link": "https://leetcode.com/problems/product-sales-analysis-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1076. Project Employees II",
+    "link": "https://leetcode.com/problems/project-employees-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1077. Project Employees III",
+    "link": "https://leetcode.com/problems/project-employees-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1082. Sales Analysis I",
+    "link": "https://leetcode.com/problems/sales-analysis-i",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1083. Sales Analysis II",
+    "link": "https://leetcode.com/problems/sales-analysis-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1097. Game Play Analysis V",
+    "link": "https://leetcode.com/problems/game-play-analysis-v",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1098. Unpopular Books",
+    "link": "https://leetcode.com/problems/unpopular-books",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1107. New Users Daily Count",
+    "link": "https://leetcode.com/problems/new-users-daily-count",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1112. Highest Grade For Each Student",
+    "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1113. Reported Posts",
+    "link": "https://leetcode.com/problems/reported-posts",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1126. Active Businesses",
+    "link": "https://leetcode.com/problems/active-businesses",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1127. User Purchase Platform",
+    "link": "https://leetcode.com/problems/user-purchase-platform",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1132. Reported Posts II",
+    "link": "https://leetcode.com/problems/reported-posts-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1142. User Activity for the Past 30 Days II",
+    "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1149. Article Views II",
+    "link": "https://leetcode.com/problems/article-views-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1159. Market Analysis II",
+    "link": "https://leetcode.com/problems/market-analysis-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1173. Immediate Food Delivery I",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-i",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1194. Tournament Winners",
+    "link": "https://leetcode.com/problems/tournament-winners",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1205. Monthly Transactions II",
+    "link": "https://leetcode.com/problems/monthly-transactions-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1212. Team Scores in Football Tournament",
+    "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1225. Report Contiguous Dates",
+    "link": "https://leetcode.com/problems/report-contiguous-dates",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1241. Number of Comments per Post",
+    "link": "https://leetcode.com/problems/number-of-comments-per-post",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1264. Page Recommendations",
+    "link": "https://leetcode.com/problems/page-recommendations",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1270. All People Report to the Given Manager",
+    "link": "https://leetcode.com/problems/all-people-report-to-the-given-manager",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1285. Find the Start and End Number of Continuous Ranges",
+    "link": "https://leetcode.com/problems/find-the-start-and-end-number-of-continuous-ranges",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1294. Weather Type in Each Country",
+    "link": "https://leetcode.com/problems/weather-type-in-each-country",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1303. Find the Team Size",
+    "link": "https://leetcode.com/problems/find-the-team-size",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1308. Running Total for Different Genders",
+    "link": "https://leetcode.com/problems/running-total-for-different-genders",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1322. Ads Performance",
+    "link": "https://leetcode.com/problems/ads-performance",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1336. Number of Transactions per Visit",
+    "link": "https://leetcode.com/problems/number-of-transactions-per-visit",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1350. Students With Invalid Departments",
+    "link": "https://leetcode.com/problems/students-with-invalid-departments",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1355. Activity Participants",
+    "link": "https://leetcode.com/problems/activity-participants",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1364. Number of Trusted Contacts of a Customer",
+    "link": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1369. Get the Second Most Recent Activity",
+    "link": "https://leetcode.com/problems/get-the-second-most-recent-activity",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1384. Total Sales Amount by Year",
+    "link": "https://leetcode.com/problems/total-sales-amount-by-year",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1398. Customers Who Bought Products A and B but Not C",
+    "link": "https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1412. Find the Quiet Students in All Exams",
+    "link": "https://leetcode.com/problems/find-the-quiet-students-in-all-exams",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1421. NPV Queries",
+    "link": "https://leetcode.com/problems/npv-queries",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1435. Create a Session Bar Chart",
+    "link": "https://leetcode.com/problems/create-a-session-bar-chart",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1440. Evaluate Boolean Expression",
+    "link": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1445. Apples & Oranges",
+    "link": "https://leetcode.com/problems/apples-oranges",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1454. Active Users",
+    "link": "https://leetcode.com/problems/active-users",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1459. Rectangles Area",
+    "link": "https://leetcode.com/problems/rectangles-area",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1468. Calculate Salaries",
+    "link": "https://leetcode.com/problems/calculate-salaries",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1479. Sales by Day of the Week",
+    "link": "https://leetcode.com/problems/sales-by-day-of-the-week",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1495. Friendly Movies Streamed Last Month",
+    "link": "https://leetcode.com/problems/friendly-movies-streamed-last-month",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1501. Countries You Can Safely Invest In",
+    "link": "https://leetcode.com/problems/countries-you-can-safely-invest-in",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1511. Customer Order Frequency",
+    "link": "https://leetcode.com/problems/customer-order-frequency",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1532. The Most Recent Three Orders",
+    "link": "https://leetcode.com/problems/the-most-recent-three-orders",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1543. Fix Product Name Format",
+    "link": "https://leetcode.com/problems/fix-product-name-format",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1549. The Most Recent Orders for Each Product",
+    "link": "https://leetcode.com/problems/the-most-recent-orders-for-each-product",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1555. Bank Account Summary",
+    "link": "https://leetcode.com/problems/bank-account-summary",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1565. Unique Orders and Customers Per Month",
+    "link": "https://leetcode.com/problems/unique-orders-and-customers-per-month",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1571. Warehouse Manager",
+    "link": "https://leetcode.com/problems/warehouse-manager",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1596. The Most Frequently Ordered Products for Each Customer",
+    "link": "https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1607. Sellers With No Sales",
+    "link": "https://leetcode.com/problems/sellers-with-no-sales",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1613. Find the Missing IDs",
+    "link": "https://leetcode.com/problems/find-the-missing-ids",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1623. All Valid Triplets That Can Represent a Country",
+    "link": "https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1635. Hopper Company Queries I",
+    "link": "https://leetcode.com/problems/hopper-company-queries-i",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1645. Hopper Company Queries II",
+    "link": "https://leetcode.com/problems/hopper-company-queries-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1651. Hopper Company Queries III",
+    "link": "https://leetcode.com/problems/hopper-company-queries-iii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1677. Product's Worth Over Invoices",
+    "link": "https://leetcode.com/problems/products-worth-over-invoices",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1699. Number of Calls Between Two Persons",
+    "link": "https://leetcode.com/problems/number-of-calls-between-two-persons",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1709. Biggest Window Between Visits",
+    "link": "https://leetcode.com/problems/biggest-window-between-visits",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1715. Count Apples and Oranges",
+    "link": "https://leetcode.com/problems/count-apples-and-oranges",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1747. Leetflex Banned Accounts",
+    "link": "https://leetcode.com/problems/leetflex-banned-accounts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1767. Find the Subtasks That Did Not Execute",
+    "link": "https://leetcode.com/problems/find-the-subtasks-that-did-not-execute",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1777. Product's Price for Each Store",
+    "link": "https://leetcode.com/problems/products-price-for-each-store",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1783. Grand Slam Titles",
+    "link": "https://leetcode.com/problems/grand-slam-titles",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1809. Ad-Free Sessions",
+    "link": "https://leetcode.com/problems/ad-free-sessions",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1811. Find Interview Candidates",
+    "link": "https://leetcode.com/problems/find-interview-candidates",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1821. Find Customers With Positive Revenue this Year",
+    "link": "https://leetcode.com/problems/find-customers-with-positive-revenue-this-year",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1831. Maximum Transaction Each Day",
+    "link": "https://leetcode.com/problems/maximum-transaction-each-day",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1841. League Statistics",
+    "link": "https://leetcode.com/problems/league-statistics",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1843. Suspicious Bank Accounts",
+    "link": "https://leetcode.com/problems/suspicious-bank-accounts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1853. Convert Date Format",
+    "link": "https://leetcode.com/problems/convert-date-format",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1867. Orders With Maximum Quantity Above Average",
+    "link": "https://leetcode.com/problems/orders-with-maximum-quantity-above-average",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1875. Group Employees of the Same Salary",
+    "link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1892. Page Recommendations II",
+    "link": "https://leetcode.com/problems/page-recommendations-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1917. Leetcodify Friends Recommendations",
+    "link": "https://leetcode.com/problems/leetcodify-friends-recommendations",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1919. Leetcodify Similar Friends",
+    "link": "https://leetcode.com/problems/leetcodify-similar-friends",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1939. Users That Actively Request Confirmation Messages",
+    "link": "https://leetcode.com/problems/users-that-actively-request-confirmation-messages",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "1949. Strong Friendship",
+    "link": "https://leetcode.com/problems/strong-friendship",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1951. All the Pairs With the Maximum Number of Common Followers",
+    "link": "https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1972. First and Last Call On the Same Day",
+    "link": "https://leetcode.com/problems/first-and-last-call-on-the-same-day",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "1988. Find Cutoff Score for Each School",
+    "link": "https://leetcode.com/problems/find-cutoff-score-for-each-school",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "1990. Count the Number of Experiments",
+    "link": "https://leetcode.com/problems/count-the-number-of-experiments",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2004. The Number of Seniors and Juniors to Join the Company",
+    "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2010. The Number of Seniors and Juniors to Join the Company II",
+    "link": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2020. Number of Accounts That Did Not Stream",
+    "link": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2026. Low-Quality Problems",
+    "link": "https://leetcode.com/problems/low-quality-problems",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2041. Accepted Candidates From the Interviews",
+    "link": "https://leetcode.com/problems/accepted-candidates-from-the-interviews",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2051. The Category of Each Member in the Store",
+    "link": "https://leetcode.com/problems/the-category-of-each-member-in-the-store",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2066. Account Balance",
+    "link": "https://leetcode.com/problems/account-balance",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2072. The Winner University",
+    "link": "https://leetcode.com/problems/the-winner-university",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2082. The Number of Rich Customers",
+    "link": "https://leetcode.com/problems/the-number-of-rich-customers",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2084. Drop Type 1 Orders for Customers With Type 0 Orders",
+    "link": "https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2112. The Airport With the Most Traffic",
+    "link": "https://leetcode.com/problems/the-airport-with-the-most-traffic",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2118. Build the Equation",
+    "link": "https://leetcode.com/problems/build-the-equation",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2142. The Number of Passengers in Each Bus I",
+    "link": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2153. The Number of Passengers in Each Bus II",
+    "link": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2159. Order Two Columns Independently",
+    "link": "https://leetcode.com/problems/order-two-columns-independently",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2173. Longest Winning Streak",
+    "link": "https://leetcode.com/problems/longest-winning-streak",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2175. The Change in Global Rankings",
+    "link": "https://leetcode.com/problems/the-change-in-global-rankings",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2199. Finding the Topic of Each Post",
+    "link": "https://leetcode.com/problems/finding-the-topic-of-each-post",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2205. The Number of Users That Are Eligible for Discount",
+    "link": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2228. Users With Two Purchases Within Seven Days",
+    "link": "https://leetcode.com/problems/users-with-two-purchases-within-seven-days",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2230. The Users That Are Eligible for Discount",
+    "link": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2238. Number of Times a Driver Was a Passenger",
+    "link": "https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2252. Dynamic Pivoting of a Table",
+    "link": "https://leetcode.com/problems/dynamic-pivoting-of-a-table",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2253. Dynamic Unpivoting of a Table",
+    "link": "https://leetcode.com/problems/dynamic-unpivoting-of-a-table",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2292. Products With Three or More Orders in Two Consecutive Years",
+    "link": "https://leetcode.com/problems/products-with-three-or-more-orders-in-two-consecutive-years",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2298. Tasks Count in the Weekend",
+    "link": "https://leetcode.com/problems/tasks-count-in-the-weekend",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2308. Arrange Table by Gender",
+    "link": "https://leetcode.com/problems/arrange-table-by-gender",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2314. The First Day of the Maximum Recorded Degree in Each City",
+    "link": "https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2324. Product Sales Analysis IV",
+    "link": "https://leetcode.com/problems/product-sales-analysis-iv",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2329. Product Sales Analysis V",
+    "link": "https://leetcode.com/problems/product-sales-analysis-v",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2339. All the Matches of the League",
+    "link": "https://leetcode.com/problems/all-the-matches-of-the-league",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2346. Compute the Rank as a Percentage",
+    "link": "https://leetcode.com/problems/compute-the-rank-as-a-percentage",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2362. Generate the Invoice",
+    "link": "https://leetcode.com/problems/generate-the-invoice",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2372. Calculate the Influence of Each Salesperson",
+    "link": "https://leetcode.com/problems/calculate-the-influence-of-each-salesperson",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2377. Sort the Olympic Table",
+    "link": "https://leetcode.com/problems/sort-the-olympic-table",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2388. Change Null Values in a Table to the Previous Value",
+    "link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2394. Employees With Deductions",
+    "link": "https://leetcode.com/problems/employees-with-deductions",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2474. Customers With Strictly Increasing Purchases",
+    "link": "https://leetcode.com/problems/customers-with-strictly-increasing-purchases",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2480. Form a Chemical Bond",
+    "link": "https://leetcode.com/problems/form-a-chemical-bond",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2494. Merge Overlapping Events in the Same Hall",
+    "link": "https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2504. Concatenate the Name and the Profession",
+    "link": "https://leetcode.com/problems/concatenate-the-name-and-the-profession",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2668. Find Latest Salaries",
+    "link": "https://leetcode.com/problems/find-latest-salaries",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2669. Count Artist Occurrences On Spotify Ranking List",
+    "link": "https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2686. Immediate Food Delivery III",
+    "link": "https://leetcode.com/problems/immediate-food-delivery-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2687. Bikes Last Time Used",
+    "link": "https://leetcode.com/problems/bikes-last-time-used",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2688. Find Active Users",
+    "link": "https://leetcode.com/problems/find-active-users",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2701. Consecutive Transactions with Increasing Amounts",
+    "link": "https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2720. Popularity Percentage",
+    "link": "https://leetcode.com/problems/popularity-percentage",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2738. Count Occurrences in Text",
+    "link": "https://leetcode.com/problems/count-occurrences-in-text",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2752. Customers with Maximum Number of Transactions on Consecutive Days",
+    "link": "https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2783. Flight Occupancy and Waitlist Analysis",
+    "link": "https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2793. Status of Flight Tickets",
+    "link": "https://leetcode.com/problems/status-of-flight-tickets",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2820. Election Results",
+    "link": "https://leetcode.com/problems/election-results",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2837. Total Traveled Distance",
+    "link": "https://leetcode.com/problems/total-traveled-distance",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2853. Highest Salaries Difference",
+    "link": "https://leetcode.com/problems/highest-salaries-difference",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2854. Rolling Average Steps",
+    "link": "https://leetcode.com/problems/rolling-average-steps",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2893. Calculate Orders Within Each Interval",
+    "link": "https://leetcode.com/problems/calculate-orders-within-each-interval",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2922. Market Analysis III",
+    "link": "https://leetcode.com/problems/market-analysis-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2978. Symmetric Coordinates",
+    "link": "https://leetcode.com/problems/symmetric-coordinates",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2984. Find Peak Calling Hours for Each City",
+    "link": "https://leetcode.com/problems/find-peak-calling-hours-for-each-city",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2985. Calculate Compressed Mean",
+    "link": "https://leetcode.com/problems/calculate-compressed-mean",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2986. Find Third Transaction",
+    "link": "https://leetcode.com/problems/find-third-transaction",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2987. Find Expensive Cities",
+    "link": "https://leetcode.com/problems/find-expensive-cities",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2988. Manager of the Largest Department",
+    "link": "https://leetcode.com/problems/manager-of-the-largest-department",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2989. Class Performance",
+    "link": "https://leetcode.com/problems/class-performance",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2990. Loan Types",
+    "link": "https://leetcode.com/problems/loan-types",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "2991. Top Three Wineries",
+    "link": "https://leetcode.com/problems/top-three-wineries",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2993. Friday Purchases I",
+    "link": "https://leetcode.com/problems/friday-purchases-i",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "2994. Friday Purchases II",
+    "link": "https://leetcode.com/problems/friday-purchases-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "2995. Viewers Turned Streamers",
+    "link": "https://leetcode.com/problems/viewers-turned-streamers",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3050. Pizza Toppings Cost Analysis",
+    "link": "https://leetcode.com/problems/pizza-toppings-cost-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3051. Find Candidates for Data Scientist Position",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3052. Maximize Items",
+    "link": "https://leetcode.com/problems/maximize-items",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3053. Classifying Triangles by Lengths",
+    "link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3054. Binary Tree Nodes",
+    "link": "https://leetcode.com/problems/binary-tree-nodes",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3055. Top Percentile Fraud",
+    "link": "https://leetcode.com/problems/top-percentile-fraud",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3056. Snaps Analysis",
+    "link": "https://leetcode.com/problems/snaps-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3057. Employees Project Allocation",
+    "link": "https://leetcode.com/problems/employees-project-allocation",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3058. Friends With No Mutual Friends",
+    "link": "https://leetcode.com/problems/friends-with-no-mutual-friends",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3059. Find All Unique Email Domains",
+    "link": "https://leetcode.com/problems/find-all-unique-email-domains",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3060. User Activities within Time Bounds",
+    "link": "https://leetcode.com/problems/user-activities-within-time-bounds",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3061. Calculate Trapping Rain Water",
+    "link": "https://leetcode.com/problems/calculate-trapping-rain-water",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3087. Find Trending Hashtags",
+    "link": "https://leetcode.com/problems/find-trending-hashtags",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3089. Find Bursty Behavior",
+    "link": "https://leetcode.com/problems/find-bursty-behavior",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3103. Find Trending Hashtags II",
+    "link": "https://leetcode.com/problems/find-trending-hashtags-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3118. Friday Purchase III",
+    "link": "https://leetcode.com/problems/friday-purchase-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3124. Find Longest Calls",
+    "link": "https://leetcode.com/problems/find-longest-calls",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3126. Server Utilization Time",
+    "link": "https://leetcode.com/problems/server-utilization-time",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3140. Consecutive Available Seats II",
+    "link": "https://leetcode.com/problems/consecutive-available-seats-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3150. Invalid Tweets II",
+    "link": "https://leetcode.com/problems/invalid-tweets-ii",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3156. Employee Task Duration and Concurrent Tasks",
+    "link": "https://leetcode.com/problems/employee-task-duration-and-concurrent-tasks",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3166. Calculate Parking Fees and Duration",
+    "link": "https://leetcode.com/problems/calculate-parking-fees-and-duration",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3172. Second Day Verification",
+    "link": "https://leetcode.com/problems/second-day-verification",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3182. Find Top Scoring Students",
+    "link": "https://leetcode.com/problems/find-top-scoring-students",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3188. Find Top Scoring Students II",
+    "link": "https://leetcode.com/problems/find-top-scoring-students-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3198. Find Cities in Each State",
+    "link": "https://leetcode.com/problems/find-cities-in-each-state",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3204. Bitwise User Permissions Analysis",
+    "link": "https://leetcode.com/problems/bitwise-user-permissions-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3214. Year on Year Growth Rate",
+    "link": "https://leetcode.com/problems/year-on-year-growth-rate",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3230. Customer Purchasing Behavior Analysis",
+    "link": "https://leetcode.com/problems/customer-purchasing-behavior-analysis",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3236. CEO Subordinate Hierarchy",
+    "link": "https://leetcode.com/problems/ceo-subordinate-hierarchy",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3246. Premier League Table Ranking",
+    "link": "https://leetcode.com/problems/premier-league-table-ranking",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3252. Premier League Table Ranking II",
+    "link": "https://leetcode.com/problems/premier-league-table-ranking-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3262. Find Overlapping Shifts",
+    "link": "https://leetcode.com/problems/find-overlapping-shifts",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3268. Find Overlapping Shifts II",
+    "link": "https://leetcode.com/problems/find-overlapping-shifts-ii",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3278. Find Candidates for Data Scientist Position II",
+    "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3293. Calculate Product Final Price",
+    "link": "https://leetcode.com/problems/calculate-product-final-price",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3308. Find Top Performing Driver",
+    "link": "https://leetcode.com/problems/find-top-performing-driver",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3322. Premier League Table Ranking III",
+    "link": "https://leetcode.com/problems/premier-league-table-ranking-iii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3328. Find Cities in Each State II",
+    "link": "https://leetcode.com/problems/find-cities-in-each-state-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3338. Second Highest Salary II",
+    "link": "https://leetcode.com/problems/second-highest-salary-ii",
+    "difficulty": "Med"
+  },
+  {
+    "Name": "3358. Books with NULL Ratings",
+    "link": "https://leetcode.com/problems/books-with-null-ratings",
+    "difficulty": "Easy"
+  },
+  {
+    "Name": "3368. First Letter Capitalization",
+    "link": "https://leetcode.com/problems/first-letter-capitalization",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3384. Team Dominance by Pass Success",
+    "link": "https://leetcode.com/problems/team-dominance-by-pass-success",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3390. Longest Team Pass Streak",
+    "link": "https://leetcode.com/problems/longest-team-pass-streak",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3401. Find Circular Gift Exchange Chains",
+    "link": "https://leetcode.com/problems/find-circular-gift-exchange-chains",
+    "difficulty": "Hard"
+  },
+  {
+    "Name": "3415. Find Products with Three Consecutive Digits",
+    "link": "https://leetcode.com/problems/find-products-with-three-consecutive-digits",
+    "difficulty": "Easy"
+  }
+]
